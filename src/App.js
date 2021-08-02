@@ -53,7 +53,7 @@ function App() {
           type: 'confirmed',
         },
         {
-          title: 'Khỏi',
+          title: 'Đã khỏi',
           count: latestData.Recovered,
           type: 'recovered',
         },
